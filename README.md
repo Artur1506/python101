@@ -1,4 +1,4 @@
-Szkolenia Python 101
+﻿Szkolenia Python 101
 ====================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
@@ -20,7 +20,7 @@ Można je również pobrać jako archiwum ZIP:
 
 https://github.com/koduj-z-klasa/python101/archive/master.zip
 
-Forum Koduj z Klasą
+Forum Koduj z Klasądd
 --------------------
 
 Zachęcamy do dyskusji i zadawania pytań na forum:
